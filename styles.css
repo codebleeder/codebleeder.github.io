@@ -14,3 +14,11 @@ h1 {
    
 }
 
+#content {
+    margin-top: 7%;
+}
+
+img.logo {
+    max-height: 40px;
+    max-width: 40px;
+}
