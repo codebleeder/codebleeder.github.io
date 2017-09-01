@@ -4,13 +4,31 @@
     text-align: center;
 }
 
-h1 {
-    font-family: 'Cormorant Garamond', serif;
+h1   {
+    /*font-family: 'Trirong', serif;*/
+    font-family: 'Proza Libre', sans-serif;
     text-align: center;
 }
+
+/*h1 {
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}*/
 
 .pure-u-4-24 {
     text-align: center;
    
 }
 
+#content {
+    margin-top: 7%;
+}
+
+img.logo {
+    max-height: 40px;
+    max-width: 40px;
+}
+
+p, h1 {
+    font-family: 'Open Sans', sans-serif;
+}
