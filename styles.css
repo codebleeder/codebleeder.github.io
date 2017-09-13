@@ -32,3 +32,8 @@ img.logo {
 p, h1 {
     font-family: 'Open Sans', sans-serif;
 }
+
+#main-menu {
+    /*margin-top: 7%;*/
+    text-align: center;
+}
